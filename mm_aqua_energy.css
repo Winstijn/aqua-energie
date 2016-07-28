@@ -1,0 +1,128 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	color:#003366;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	}
+	
+a {
+	color: #993300;
+	}
+	
+a:hover {
+	color: #0EC3FF;
+	text-decoration: underline;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 1px solid #000066;
+	color: #000066;
+	}
+	
+#navigation a {
+	color: #FFFFFF;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	display:block;
+	padding:5px 5px 5px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+#navigation a:hover {
+	color:#3D5B9E;
+	background-color: #FFFFFF;
+	text-decoration: none;
+	border-top-color: #FFFFFF;
+	}
+	
+#logo 	{
+	font:24px Arial, Helvetica, sans-serif;
+	color: #2F92E9;
+	letter-spacing:0.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:11px Arial, Helvetica, sans-serif;
+	color: #2F92E9;
+	letter-spacing:0.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 1px dashed #2F92E9;
+	}
+		
+#dateformat {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #2F92E9;
+	letter-spacing:.2em;
+	}
+	
+#dateformat a {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #2F92E9;
+	font-weight:bold;
+	letter-spacing:.1em;
+	text-decoration:none;
+	}
+	
+#dateformat a:hover {
+	color: #2F92E9;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	font:12px Arial, Helvetica, sans-serif;
+	color:#003366;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pageName{
+	color: #OEC3FF;
+	line-height:26px;
+	letter-spacing:0.21em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	}
+	
+.subHeader {
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color: #OEC3FF;
+	line-height:19px;
+	letter-spacing:0.2em;
+	}
+
+.quote {
+	font: 18px Arial, Helvetica, sans-serif;
+	color: #0EC3FF;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height: 16px;
+	}
+	
+.navText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #OEC3FF;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	}
+	
